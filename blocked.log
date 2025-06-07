@@ -1,0 +1,14 @@
+Blocked IP: 127.0.0.1, Path: /?q=%3Cscript%3Ealert(%27x%27)%3C/script%3E
+Blocked IP: 127.0.0.1, Path: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: user=<script>alert(1)</script>
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=<script>alert(1)</script>
+Blocked IP: 127.0.0.1, Content: /?q=<script>alert(1)</script>
+Blocked IP: 127.0.0.1, Content: username=' OR '1'='1
+Blocked IP: 127.0.0.1, Content: /?q=<script>alert(1)</script>
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
+Blocked IP: 127.0.0.1, Content: /?q=%3Cscript%3Ealert(1)%3C/script%3E
